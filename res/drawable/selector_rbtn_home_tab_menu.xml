@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/abs__ab_transparent_light_holo" android:state_checked="true"></item>
+    <item android:drawable="@drawable/transparent" android:state_checked="false"></item>
+    <item android:drawable="@drawable/rbtn_home_tab_menu" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/transparent" android:state_pressed="false"></item>
+
+</selector>
